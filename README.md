@@ -36,3 +36,34 @@ It includes the following columns:
 - `vgsales.csv` - Dataset file
 - `README.md` - This file
 - `Zainab_Assignment1_VideoGames.ipynb` - Jupyter Notebook
+
+# Assignment 2 – Data Preprocessing
+**Course:** ARTI 406 - Machine Learning  
+**Student:** Zainab Ali Alsharait  
+**ID:** 2230006803  
+**Dataset:** Video Game Sales (vgsales.csv)
+
+---
+
+## Tasks Overview
+
+| Task | Description |
+|---|---|
+| Task 1 | Identify data quality issues |
+| Task 2 | Apply missing value strategy |
+| Task 3 | Detect and handle outliers using IQR |
+| Task 4 | Normalize features (Min-Max & Z-score) |
+| Task 5 | Apply PCA and interpret explained variance |
+
+---
+
+## Files
+- `Zainab_Assignment2_VideoGames.ipynb` – Jupyter Notebook with all tasks
+- `vgsales.csv` – Dataset used
+- `ZainabAlsharait_ML_Assignment2.pdf` – Word file output
+
+---
+
+## Key Results
+- **Missing values:** Year (1.63%) dropped, Publisher filled with 'Unknown'
+- **Outliers removed:** 4,526 rows removed using
